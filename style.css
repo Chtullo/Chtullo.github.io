@@ -12,7 +12,7 @@ h1{
   }
 
   div {
-      border: 2px solid green;
+      border: 2px solid black;
   }
   #nicholas{
       float: left;
@@ -20,4 +20,14 @@ h1{
   }
   .picdescr {
       height: 240px;
+      padding: 10px;
+      background-color:slategrey ;
+  }
+  .name{
+      text-align: center;
+  }
+  #proudskills{
+      position: relative;
+      top: 10px;
+
   }
