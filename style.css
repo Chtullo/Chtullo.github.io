@@ -10,6 +10,14 @@ h1{
   h3{
     font-style: oblique;
   }
-  div{
-      
+
+  div {
+      border: 2px solid green;
+  }
+  #nicholas{
+      float: left;
+      height:  240px;
+  }
+  .picdescr {
+      height: 240px;
   }
